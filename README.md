@@ -10,4 +10,4 @@ git clone https://github.com/ashinasok/Simple_Calc-iOS.git
 Double click the file FirstApp_final.xcodeproj to view the project.
 Xcode must be installed in the system.
 
-![ScreenShot](https://github.com/ashinasok/Simple_Calc-iOS.git/screenshots/first.PNG)
+![ScreenShot](https://github.com/ashinasok/Simple_Calc-iOS.git/screenshots/first.jpg)
