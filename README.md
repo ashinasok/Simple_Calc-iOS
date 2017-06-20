@@ -5,7 +5,9 @@ This is my first iOS project .
 Only tested for iPhone 5s , 5c and SE.
 
 To clone the repo , type the following in terminal:
-https://github.com/ashinasok/Simple_Calc-iOS.git
+git clone https://github.com/ashinasok/Simple_Calc-iOS.git
 
 Double click the file FirstApp_final.xcodeproj to view the project.
 Xcode must be installed in the system.
+
+![alt text](screenshots/first.PNG “ Main Screen “)
